@@ -2,6 +2,7 @@
     "version": "1.229.1",
     "url": "http://clientfile.jijidown.com/PC/WPF/HistoricVersion/WPF_JJDown_v1.229.1.zip",
     "homepage": "http://www.jijidown.com/",
+    "license": "Freeware",
     "description": "jijidown for bilibili video",
     "hash": "39c0b2757a763026d27bba0d5babd97b15d80eec2043761e9d80730a0792ee11",
     "extract_dir": "[WPF]JJDown",

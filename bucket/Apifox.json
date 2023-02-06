@@ -1,6 +1,7 @@
 {
     "version": "2.0.2",
     "homepage": "https://www.apifox.cn/",
+    "license": "Freeware",
     "description": "",
     "architecture": {
         "64bit": {
