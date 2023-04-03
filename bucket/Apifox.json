@@ -1,12 +1,12 @@
 {
-    "version": "2.0.2",
+    "version": "2.2.30",
     "homepage": "https://www.apifox.cn/",
     "license": "Freeware",
     "description": "",
     "architecture": {
         "64bit": {
             "url": "https://cdn.apifox.cn/download/Apifox-windows-latest.zip",
-            "hash": "46b5f1a9dbc321c4552d3fd4507dd5d37480b22ef3bf36a54f87fcbd8b979ba7",
+            "hash": "4794a1baea88eacff2de6fb5c8648dd5a220b07318762fad1ca479ecf6163299",
             "pre_install": [
                 "Move-Item \"$dir/*.exe\" \"$dir/Setup.7z\"",
                 "Expand-7zipArchive \"$dir\\Setup.7z\" \"$dir\"",
@@ -16,7 +16,7 @@
         },
         "32bit": {
             "url": "https://cdn.apifox.cn/download/Apifox-win32-latest.zip",
-            "hash": "d40fdc36e6a0bc5c2a13edfcc82d00eab81d730adad32e6bc2cffca4b38a42bf",
+            "hash": "859fcb9e5d60d9b4b46a808df7e25302b814d9ccda7ea30fed99f2010c9717e3",
             "pre_install": [
                 "Move-Item \"$dir/*.exe\" \"$dir/Setup.7z\"",
                 "Expand-7zipArchive \"$dir\\Setup.7z\" \"$dir\"",
@@ -28,8 +28,18 @@
     "uninstaller": {
         "file": "Uninstall Apifox.exe"
     },
-    "bin": [["Apifox.exe", "Apifox"]],
-    "shortcuts": [["Apifox.exe", "Apifox"]],
+    "bin": [
+        [
+            "Apifox.exe",
+            "Apifox"
+        ]
+    ],
+    "shortcuts": [
+        [
+            "Apifox.exe",
+            "Apifox"
+        ]
+    ],
     "checkver": {
         "url": "https://apifox.com/help/app/changelog",
         "re": ">([\\d.]+) <"
