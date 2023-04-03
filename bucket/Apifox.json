@@ -40,7 +40,7 @@
                 "url": "https://cdn.apifox.cn/download/Apifox-windows-latest.zip"
             },
             "32bit": {
-                "url": "https://cdn.apifox.cn/download/Apifox-windows-32bit.zip"
+                "url": "https://cdn.apifox.cn/download/Apifox-win32-latest.zip"
             }
         }
     }
