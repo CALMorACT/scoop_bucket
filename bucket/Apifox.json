@@ -31,8 +31,8 @@
     "bin": [["Apifox.exe", "Apifox"]],
     "shortcuts": [["Apifox.exe", "Apifox"]],
     "checkver": {
-        "url": "https://www.apifox.cn/help/app/changelog",
-        "re": "a> ([\\d.]+)<"
+        "url": "https://apifox.com/help/app/changelog",
+        "re": ">([\\d.]+) <"
     },
     "autoupdate": {
         "architecture": {

@@ -11,8 +11,8 @@
         ]
     ],
     "checkver": {
-        "url": "https://obs-community.obs.cn-north-1.myhuaweicloud.com/obsutil/current/obsutil_windows_amd64.zip.sha256",
-        "regex": "obsutil_windows_amd64_(.+)\\.zip"
+        "url": "https://obs-community.obs.cn-north-1.myhuaweicloud.com/obsutil/README_CN.MD",
+        "regex": "Version ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://obs-community.obs.cn-north-1.myhuaweicloud.com/obsutil/current/obsutil_windows_amd64.zip",
