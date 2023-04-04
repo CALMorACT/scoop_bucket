@@ -24,7 +24,7 @@
     "checkver": {
         "url": "https://api.github.com/repos/MaaAssistantArknights/MaaAssistantArknights/releases",
         "jsonpath": "$[0].tag_name",
-        "re": "v([\\d.]+)"
+        "re": "v(.+)"
     },
     "autoupdate": {
         "architecture": {
