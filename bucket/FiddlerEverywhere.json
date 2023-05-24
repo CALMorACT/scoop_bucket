@@ -1,5 +1,5 @@
 {
-    "version": "4.2.1",
+    "version": "4.3.0",
     "description": "Network traffic analyzer",
     "homepage": "https://www.telerik.com/fiddler-everywhere",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://downloads.getfiddler.com/win/Fiddler%20Everywhere%204.2.1.exe#/dl.7z",
-            "hash": "2a742e86c6cbfcc68b0d081b9a0bcb15d9ddd8e1712a5e125e268eb7a95c0386",
+            "url": "https://downloads.getfiddler.com/win/Fiddler%20Everywhere%204.3.0.exe#/dl.7z",
+            "hash": "fd093bae722e77ebc0be0a2c3a591abaf2df5bd37f37a6ee5f4d32d8261b0abb",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
                 "Remove-Item \"$dir/`$PLUGINSDIR\" -Recurse"
