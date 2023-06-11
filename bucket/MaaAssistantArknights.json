@@ -14,13 +14,7 @@
             "MAA"
         ]
     ],
-    "pre_install": [
-        "$file='gui.json'",
-        "if (!(Test-Path \"$persist_dir\\$file\")) {",
-        "    New-Item \"$dir\\$file\" -Type File | Out-Null",
-        "}"
-    ],
-    "persist": "gui.json",
+    "persist": "config",
     "checkver": {
         "url": "https://api.github.com/repos/MaaAssistantArknights/MaaAssistantArknights/releases",
         "jsonpath": "$[0].tag_name",
