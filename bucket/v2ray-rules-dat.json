@@ -1,14 +1,14 @@
 {
-    "version": "202308242208",
+    "version": "202308252208",
     "homepage": "https://github.com/Loyalsoldier/v2ray-rules-dat",
     "description": "Enhanced edition of V2Ray rules dat files.",
     "license": "GPL-3.0-or-later",
     "url": [
-        "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/download/202308242208/rules.zip",
+        "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/download/202308252208/rules.zip",
         "https://github.com/CALMorACT/hola_bucket/raw/master/scripts/v2ray-rules-search.ps1"
     ],
     "hash": [
-        "ea7194cef636b71ad0049b546c8709d1add8598f96a7dbf08a525ada7fbf2e22",
+        "c801f0db52100ade39b1b641e883f25e331c9390aab11f6fc15504b5fb4a01a6",
         "c189578c79940f3ab935df8c27d0e2e1ca9773acc7ef61f772f83e7c2523e700"
     ],
     "depends": "v2ray",
