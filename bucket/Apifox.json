@@ -42,7 +42,7 @@
     ],
     "checkver": {
         "url": "https://apifox.com/help/app/changelog",
-        "re": ">([\\d.]+) <"
+        "re": ">([\\d.]+)<"
     },
     "autoupdate": {
         "architecture": {
