@@ -1,12 +1,12 @@
 {
-    "version": "2.3.22",
+    "version": "2.3.23",
     "homepage": "https://www.apifox.cn/",
     "license": "Freeware",
     "description": "",
     "architecture": {
         "64bit": {
             "url": "https://cdn.apifox.cn/download/Apifox-windows-latest.zip",
-            "hash": "8c55651d8b7bf7d4afefead86110d9a5cd2415319709e2d3ace6c6eab524a0f6",
+            "hash": "8616f8fff7c126526ef0aec4b26861b7ab0e96ba324174416adc4a75493c3025",
             "pre_install": [
                 "Move-Item \"$dir/*.exe\" \"$dir/Setup.7z\"",
                 "Expand-7zipArchive \"$dir\\Setup.7z\" \"$dir\"",
