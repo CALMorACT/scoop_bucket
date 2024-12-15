@@ -1,11 +1,11 @@
 {
-    "version": "5.11.0-beta.1",
+    "version": "5.11.0-beta.2",
     "homepage": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
     "license": "AGPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights/releases/download/v5.11.0-beta.1/MAA-v5.11.0-beta.1-win-x64.zip",
-            "hash": "d04f8c5d64ba22d2f19832a83ac433bfcdacb49fe697ea54462e79a1ea069f76"
+            "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights/releases/download/v5.11.0-beta.2/MAA-v5.11.0-beta.2-win-x64.zip",
+            "hash": "c80d060f4fc91d40f39a01fb5ab67623ecc81896a4a9ef47e9eabfe9f6beae48"
         }
     },
     "shortcuts": [
