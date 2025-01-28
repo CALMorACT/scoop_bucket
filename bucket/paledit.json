@@ -1,6 +1,8 @@
 {
     "version": "0.11.5",
     "homepage": "https://github.com/EternalWraith/PalEdit",
+    "description": "A simple tool for Editing and Generating Pals within PalWorld Saves",
+    "license": "MIT",
     "architecture": {
         "64bit": {
             "url": "https://github.com/EternalWraith/PalEdit/releases/download/v0.11.5/PalEdit.v0.11.5.zip",
