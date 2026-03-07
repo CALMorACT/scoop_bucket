@@ -1,12 +1,12 @@
 {
-    "version": "1.18.3",
+    "version": "1.19.0",
     "description": "《明日方舟：终末地》游戏小助手",
     "homepage": "https://github.com/MaaEnd/MaaEnd",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/MaaEnd/MaaEnd/releases/download/v1.18.3/MaaEnd-win-x86_64-v1.18.3.zip",
-            "hash": "30e628f565ae3ed9d404bb92d9e95ca57ffafe39eb6be484e0b1c0b25e00b213"
+            "url": "https://github.com/MaaEnd/MaaEnd/releases/download/v1.19.0/MaaEnd-win-x86_64-v1.19.0.zip",
+            "hash": "e2a00b369a035ace5214b6d5bb6cddc630b4acf70440a04ddaed8ac32fdbea37"
         }
     },
     "shortcuts": [
